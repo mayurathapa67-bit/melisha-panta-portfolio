@@ -1,0 +1,464 @@
+{
+  "nav": {
+    "logo": "Melisha Panta",
+    "links": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" },
+      { "label": "Portfolio", "href": "/portfolio" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Blog", "href": "/blog" },
+      { "label": "Contact", "href": "/contact" }
+    ]
+  },
+  "hero": {
+    "title": "Melisha Panta",
+    "role": "Digital Marketing Specialist",
+    "subtitle": "Driving measurable growth through data-driven marketing strategies",
+    "stats": [
+      { "label": "Avg ROI", "value": "500%" },
+      { "label": "Revenue Generated", "value": "$10M+" },
+      { "label": "Campaigns", "value": "100+" }
+    ],
+    "cta_primary": "View Case Studies",
+    "cta_secondary": "Get Free Audit",
+    "image": "/images/hero-melisha.jpg"
+  },
+  "about": {
+    "headline": "Marketing Strategist",
+    "bio": "I am a data-driven Digital Marketing Specialist with a passion for turning ambitious brand goals into measurable growth. Across Queensland and Kathmandu, I have partnered with startups, e-commerce brands, and enterprise teams to build marketing engines that scale. My approach blends editorial storytelling with rigorous analytics, ensuring every campaign looks beautiful and performs even better.",
+    "philosophy": "Great marketing is a conversation, not a broadcast. I believe the best results come from deeply understanding the customer, testing relentlessly, and letting the data lead the creative. Elegance and performance are not opposites — they are partners.",
+    "expertise": [
+      "Full-funnel growth strategy",
+      "Performance & paid media",
+      "SEO & technical optimization",
+      "Content & brand storytelling",
+      "Marketing analytics & attribution",
+      "Conversion rate optimization"
+    ],
+    "experience": [
+      {
+        "role": "Senior Digital Marketing Specialist",
+        "company": "Brisbane Growth Collective",
+        "duration": "2021 — Present",
+        "achievements": [
+          "Scaled paid acquisition to $4.2M annual ad spend at 4.8x ROAS",
+          "Grew organic traffic 320% across 12 client sites in 18 months",
+          "Built an analytics framework adopted by 30+ account managers"
+        ]
+      },
+      {
+        "role": "Performance Marketing Manager",
+        "company": "Himalaya Commerce",
+        "duration": "2018 — 2021",
+        "achievements": [
+          "Launched 40+ campaigns generating $3.1M in attributed revenue",
+          "Improved average conversion rate from 1.9% to 4.6%",
+          "Reduced cost-per-lead by 47% through audience refinement"
+        ]
+      },
+      {
+        "role": "Content & SEO Lead",
+        "company": "Kathmandu Digital Studio",
+        "duration": "2016 — 2018",
+        "achievements": [
+          "Grew blog from 0 to 85k monthly readers in 14 months",
+          "Built a 200-article content library ranking for 1.2k keywords",
+          "Established the editorial process still used by the team today"
+        ]
+      }
+    ],
+    "certifications": [
+      "Google Ads Certified",
+      "Google Analytics 4 Certified",
+      "Meta (Facebook) Blueprint Certified",
+      "HubSpot Content Marketing Certified",
+      "SEMrush SEO Toolkit Certified"
+    ],
+    "tools": [
+      "SEMrush",
+      "Ahrefs",
+      "Hootsuite",
+      "Google Looker Studio",
+      "Meta Ads Manager",
+      "Google Tag Manager",
+      "Mailchimp",
+      "Hotjar"
+    ]
+  },
+  "services": [
+    {
+      "title": "SEO & Content Marketing",
+      "description": "Technical and editorial SEO that compounds. Rank for the keywords that matter and turn traffic into loyal readers and buyers.",
+      "icon": "search",
+      "price": "From $1,200/mo",
+      "features": [
+        "Technical & on-page SEO audits",
+        "Keyword & topic cluster strategy",
+        "Editorial content calendar",
+        "Link building & digital PR",
+        "Monthly performance reporting"
+      ]
+    },
+    {
+      "title": "PPC & Paid Advertising",
+      "description": "Profit-focused paid media across Google, Meta, and YouTube. Built to hit ROAS targets, not just impressions.",
+      "icon": "megaphone",
+      "price": "From $1,500/mo + ad spend",
+      "features": [
+        "Campaign strategy & setup",
+        "Audience & creative testing",
+        "Conversion tracking & attribution",
+        "Bid & budget optimization",
+        "Weekly performance reviews"
+      ]
+    },
+    {
+      "title": "Social Media Management",
+      "description": "Brand-led social presence that builds community and drives qualified traffic across platforms that fit your audience.",
+      "icon": "share",
+      "price": "From $900/mo",
+      "features": [
+        "Content strategy & production",
+        "Channel management (IG, FB, LinkedIn)",
+        "Community engagement",
+        "Influencer & UGC coordination",
+        "Monthly insights report"
+      ]
+    },
+    {
+      "title": "Email Marketing Automation",
+      "description": "Lifecycle email that nurtures, converts, and retains. Segmented journeys mapped to the customer lifecycle.",
+      "icon": "mail",
+      "price": "From $800/mo",
+      "features": [
+        "Automation & flow design",
+        "Segmentation & personalization",
+        "Copywriting & template design",
+        "A/B testing program",
+        "Deliverability monitoring"
+      ]
+    },
+    {
+      "title": "Marketing Strategy & Consulting",
+      "description": "A senior partner for your growth. Quarterly planning, analytics audits, and a clear roadmap to measurable results.",
+      "icon": "compass",
+      "price": "From $2,500/project",
+      "features": [
+        "Growth & channel audit",
+        "Quarterly roadmap",
+        "Analytics & attribution setup",
+        "Team training & enablement",
+        "Executive reporting"
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "slug": "ecommerce-seo-turnaround",
+      "title": "E-commerce SEO Turnaround",
+      "category": "SEO",
+      "client": "Aurora Living",
+      "industry": "Home & Lifestyle E-commerce",
+      "challenge": "Aurora Living had a beautiful catalogue but ranked on page 4 for its hero products, with organic revenue flat for two years.",
+      "strategy": "We rebuilt the site architecture around topic clusters, fixed 1,400 crawl issues, and launched a programmatic content engine for buying guides.",
+      "executive_summary": "A 12-month organic growth program that took a stalled e-commerce store from 18k to 76k monthly sessions and 3.4x organic revenue.",
+      "results": {
+        "traffic_growth": "+322%",
+        "conversion_rate": "3.8%",
+        "roi": "640%"
+      },
+      "metrics": [
+        { "label": "Monthly Sessions", "value": "76k", "before": "18k", "after": "76k" },
+        { "label": "Organic Revenue", "value": "$412k", "before": "$94k", "after": "$412k" },
+        { "label": "Keyword Rankings (Top 10)", "value": "1,140", "before": "210", "after": "1,140" }
+      ],
+      "chart_data": [
+        { "date": "Jan", "value": 18 },
+        { "date": "Mar", "value": 27 },
+        { "date": "May", "value": 39 },
+        { "date": "Jul", "value": 52 },
+        { "date": "Sep", "value": 64 },
+        { "date": "Nov", "value": 76 }
+      ],
+      "published_date": "2025-11-02",
+      "featured_image": "/images/case-seo.jpg",
+      "testimonial": {
+        "quote": "Melisha didn't just move rankings — she rebuilt how we think about growth. Our organic channel is now our most profitable.",
+        "name": "Priya Sharma",
+        "role": "Founder",
+        "company": "Aurora Living"
+      }
+    },
+    {
+      "slug": "saas-ppc-scale",
+      "title": "SaaS Paid Acquisition Scale",
+      "category": "PPC",
+      "client": "Flowdesk",
+      "industry": "B2B SaaS",
+      "challenge": "Flowdesk was burning budget on broad keywords with a 1.2x ROAS and no clear path to profitability.",
+      "strategy": "We rebuilt the account around intent tiers, introduced offline conversion imports, and ran a creative testing cadence of 12 variants/month.",
+      "executive_summary": "Restructured a $90k/mo Google & LinkedIn program to 5.1x ROAS within two quarters while cutting wasted spend 38%.",
+      "results": {
+        "traffic_growth": "+185%",
+        "conversion_rate": "5.2%",
+        "roi": "510%"
+      },
+      "metrics": [
+        { "label": "ROAS", "value": "5.1x", "before": "1.2x", "after": "5.1x" },
+        { "label": "Cost / Trial", "value": "$41", "before": "$98", "after": "$41" },
+        { "label": "Qualified Trials / mo", "value": "640", "before": "220", "after": "640" }
+      ],
+      "chart_data": [
+        { "date": "Jan", "value": 220 },
+        { "date": "Mar", "value": 310 },
+        { "date": "May", "value": 430 },
+        { "date": "Jul", "value": 510 },
+        { "date": "Sep", "value": 590 },
+        { "date": "Nov", "value": 640 }
+      ],
+      "published_date": "2025-09-18",
+      "featured_image": "/images/case-ppc.jpg",
+      "testimonial": {
+        "quote": "We finally have a paid channel we can scale with confidence. The reporting alone changed how the board sees marketing.",
+        "name": "Daniel Okafor",
+        "role": "CMO",
+        "company": "Flowdesk"
+      }
+    },
+    {
+      "slug": "social-launch-tea-brand",
+      "title": "Social Launch for a Tea Brand",
+      "category": "Social",
+      "client": "Kurmali Tea",
+      "industry": "CPG / Beverage",
+      "challenge": "A heritage Nepali tea brand wanted to reach younger Australian buyers but had zero social presence outside a dormant page.",
+      "strategy": "We built a storytelling-first Instagram & TikTok strategy, paired creators with UGC, and ran a launch giveaway tied to a landing page.",
+      "executive_summary": "Launched the brand into the AU market with 52k followers and a 6.4% engagement rate in the first 90 days.",
+      "results": {
+        "traffic_growth": "+940%",
+        "conversion_rate": "4.1%",
+        "roi": "380%"
+      },
+      "metrics": [
+        { "label": "Followers (90 days)", "value": "52k", "before": "0", "after": "52k" },
+        { "label": "Engagement Rate", "value": "6.4%", "before": "0%", "after": "6.4%" },
+        { "label": "Launch Revenue", "value": "$128k", "before": "$0", "after": "$128k" }
+      ],
+      "chart_data": [
+        { "date": "Wk 1", "value": 2 },
+        { "date": "Wk 3", "value": 11 },
+        { "date": "Wk 6", "value": 24 },
+        { "date": "Wk 9", "value": 38 },
+        { "date": "Wk 12", "value": 52 }
+      ],
+      "published_date": "2025-07-29",
+      "featured_image": "/images/case-social.jpg",
+      "testimonial": {
+        "quote": "Melisha made our story feel modern without losing our roots. The launch exceeded every target we set.",
+        "name": "Anjali Rai",
+        "role": "Brand Director",
+        "company": "Kurmali Tea"
+      }
+    },
+    {
+      "slug": "content-engine-finance",
+      "title": "Content Engine for a Fintech",
+      "category": "Content",
+      "client": "Ledgerly",
+      "industry": "Fintech",
+      "challenge": "Ledgerly needed authority in a crowded category but published sporadically with no measurable pipeline impact.",
+      "strategy": "We built a topic-cluster editorial system, repurposed long-form into short video and email, and gated the highest-intent pieces.",
+      "executive_summary": "A consistent content engine that grew MQLs 260% and became the top source of demo requests within 9 months.",
+      "results": {
+        "traffic_growth": "+410%",
+        "conversion_rate": "2.9%",
+        "roi": "470%"
+      },
+      "metrics": [
+        { "label": "Monthly MQLs", "value": "310", "before": "86", "after": "310" },
+        { "label": "Articles Published", "value": "96", "before": "12", "after": "96" },
+        { "label": "Demo Requests / mo", "value": "74", "before": "21", "after": "74" }
+      ],
+      "chart_data": [
+        { "date": "Jan", "value": 86 },
+        { "date": "Mar", "value": 120 },
+        { "date": "May", "value": 170 },
+        { "date": "Jul", "value": 230 },
+        { "date": "Sep", "value": 280 },
+        { "date": "Nov", "value": 310 }
+      ],
+      "published_date": "2025-05-14",
+      "featured_image": "/images/case-content.jpg",
+      "testimonial": {
+        "quote": "Content became a predictable pipeline channel. We stopped guessing and started compounding.",
+        "name": "Marcus Lee",
+        "role": "Head of Growth",
+        "company": "Ledgerly"
+      }
+    },
+    {
+      "slug": "email-flows-dtc",
+      "title": "Lifecycle Email for DTC Skincare",
+      "category": "Email",
+      "client": "Lumé Skin",
+      "industry": "DTC Beauty",
+      "challenge": "Lumé relied on blasts with declining open rates and a leaky welcome funnel leaking first-purchase revenue.",
+      "strategy": "We designed 9 lifecycle flows, implemented predictive segmentation, and rebuilt the welcome series around education.",
+      "executive_summary": "Email became 34% of revenue with a 41% lift in repeat purchase rate over six months.",
+      "results": {
+        "traffic_growth": "+210%",
+        "conversion_rate": "7.8%",
+        "roi": "720%"
+      },
+      "metrics": [
+        { "label": "Email Revenue Share", "value": "34%", "before": "11%", "after": "34%" },
+        { "label": "Repeat Purchase Rate", "value": "41%", "before": "23%", "after": "41%" },
+        { "label": "Flow Revenue / mo", "value": "$96k", "before": "$28k", "after": "$96k" }
+      ],
+      "chart_data": [
+        { "date": "Jan", "value": 28 },
+        { "date": "Mar", "value": 44 },
+        { "date": "May", "value": 61 },
+        { "date": "Jul", "value": 75 },
+        { "date": "Sep", "value": 88 },
+        { "date": "Nov", "value": 96 }
+      ],
+      "published_date": "2025-03-09",
+      "featured_image": "/images/case-email.jpg",
+      "testimonial": {
+        "quote": "The flows pay for themselves many times over. Email is now our most efficient channel.",
+        "name": "Sofia Marin",
+        "role": "E-commerce Lead",
+        "company": "Lumé Skin"
+      }
+    },
+    {
+      "slug": "local-seo-multi-location",
+      "title": "Local SEO for Multi-Location Clinics",
+      "category": "SEO",
+      "client": "Wellspring Health",
+      "industry": "Healthcare",
+      "challenge": "A 9-location clinic group had inconsistent listings and almost no local pack visibility per branch.",
+      "strategy": "We standardized the local footprint, built location pages at scale, and earned community backlinks per clinic.",
+      "executive_summary": "Drove a 268% lift in 'near me' visibility and 3.1x booked appointments from organic local search.",
+      "results": {
+        "traffic_growth": "+268%",
+        "conversion_rate": "6.3%",
+        "roi": "560%"
+      },
+      "metrics": [
+        { "label": "Local Pack Rankings", "value": "7/9", "before": "1/9", "after": "7/9" },
+        { "label": "Booked Appts / mo", "value": "540", "before": "174", "after": "540" },
+        { "label": "Direction Requests", "value": "2.1k", "before": "620", "after": "2.1k" }
+      ],
+      "chart_data": [
+        { "date": "Jan", "value": 174 },
+        { "date": "Mar", "value": 250 },
+        { "date": "May", "value": 340 },
+        { "date": "Jul", "value": 410 },
+        { "date": "Sep", "value": 490 },
+        { "date": "Nov", "value": 540 }
+      ],
+      "published_date": "2025-01-22",
+      "featured_image": "/images/case-local.jpg",
+      "testimonial": {
+        "quote": "Each clinic finally shows up where our patients are searching. Bookings speak for themselves.",
+        "name": "Dr. Hannah Cole",
+        "role": "Operations Director",
+        "company": "Wellspring Health"
+      }
+    }
+  ],
+  "blog": [
+    {
+      "slug": "roas-first-ppc-framework",
+      "title": "The ROAS-First Framework for Scaling Paid Search",
+      "excerpt": "Stop optimizing for clicks. A practical framework for structuring accounts around profit, not vanity metrics.",
+      "content": "Most paid search accounts are optimized for the wrong thing. This guide walks through intent tiers, offline conversion imports, and a creative testing cadence that compounds. We cover how to set ROAS guardrails per campaign, when to consolidate versus split, and how to read marginal efficiency curves before you scale spend.\n\nThe core idea: every dollar of ad spend should map to a revenue outcome you can defend to a CFO. Build the measurement first, then the campaigns.",
+      "published_date": "2025-12-01",
+      "read_time": "7 min",
+      "category": "PPC",
+      "featured_image": "/images/blog-ppc.jpg"
+    },
+    {
+      "slug": "topic-clusters-that-rank",
+      "title": "Topic Clusters That Actually Rank (and Convert)",
+      "excerpt": "Pillar pages alone don't win. Here's how to build cluster ecosystems that earn topical authority.",
+      "content": "Topical authority is earned through structure, not volume. We break down how to map a pillar to its cluster, interlink with intent, and use programmatic templates for scale.\n\nThe result is a site that search engines understand as a definitive resource — and readers trust as one too.",
+      "published_date": "2025-10-15",
+      "read_time": "9 min",
+      "category": "SEO",
+      "featured_image": "/images/blog-seo.jpg"
+    },
+    {
+      "slug": "social-storytelling-playbook",
+      "title": "The Social Storytelling Playbook for Heritage Brands",
+      "excerpt": "How legacy brands can feel modern on social without losing what makes them authentic.",
+      "content": "Heritage is an asset, not a constraint. This playbook shows how to translate legacy into narrative formats that perform on Reels and TikTok, paired with creator and UGC strategy.\n\nWe include a 90-day launch template you can adapt to any category.",
+      "published_date": "2025-08-20",
+      "read_time": "6 min",
+      "category": "Social",
+      "featured_image": "/images/blog-social.jpg"
+    },
+    {
+      "slug": "lifecycle-email-blueprint",
+      "title": "A Lifecycle Email Blueprint for Repeat Revenue",
+      "excerpt": "Nine flows every DTC brand should run, and the segmentation that makes them pay.",
+      "content": "Email is the highest-ROI channel most brands underuse. We map the nine lifecycle flows — welcome, browse, cart, post-purchase, win-back — and the predictive segments that lift repeat rate.\n\nIncludes a benchmarking table for open, click, and revenue share by stage.",
+      "published_date": "2025-06-11",
+      "read_time": "8 min",
+      "category": "Email",
+      "featured_image": "/images/blog-email.jpg"
+    },
+    {
+      "slug": "measurement-before-campaigns",
+      "title": "Why Measurement Comes Before Campaigns",
+      "excerpt": "The unsexy step that determines whether your marketing can scale. A strategic primer on attribution.",
+      "content": "Before you spend a cent, you need to know what a result looks like and how you'll measure it. This piece covers a pragmatic attribution setup using GA4, server-side tagging, and a single source of truth dashboard.\n\nStrategy without measurement is a guess dressed as a plan.",
+      "published_date": "2025-04-03",
+      "read_time": "5 min",
+      "category": "Strategy",
+      "featured_image": "/images/blog-strategy.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Melisha turned our scattered marketing into a system. Within two quarters we had our most profitable year on record.",
+      "name": "Priya Sharma",
+      "role": "Founder",
+      "company": "Aurora Living",
+      "avatar": "/images/avatar-1.jpg"
+    },
+    {
+      "quote": "Rare to find someone equally fluent in creative and data. She speaks both languages fluently.",
+      "name": "Daniel Okafor",
+      "role": "CMO",
+      "company": "Flowdesk",
+      "avatar": "/images/avatar-2.jpg"
+    },
+    {
+      "quote": "Our launch was the smoothest we've run. Calm, strategic, and relentlessly focused on results.",
+      "name": "Anjali Rai",
+      "role": "Brand Director",
+      "company": "Kurmali Tea",
+      "avatar": "/images/avatar-3.jpg"
+    },
+    {
+      "quote": "The dashboards alone changed how our leadership talks about marketing. Finally, clarity.",
+      "name": "Marcus Lee",
+      "role": "Head of Growth",
+      "company": "Ledgerly",
+      "avatar": "/images/avatar-4.jpg"
+    }
+  ],
+  "contact": {
+    "email": "pantamelisha700@gmail.com",
+    "phone": "+61 483 020 249",
+    "location": "Queensland, Australia / Kathmandu, Nepal",
+    "socials": [
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/melishapanta" },
+      { "label": "Instagram", "href": "https://www.instagram.com/melisha.panta" },
+      { "label": "X / Twitter", "href": "https://x.com/melishapanta" }
+    ]
+  }
+}
