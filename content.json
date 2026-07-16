@@ -2,12 +2,30 @@
   "nav": {
     "logo": "Melisha Panta",
     "links": [
-      { "label": "Home", "href": "/" },
-      { "label": "About", "href": "/about" },
-      { "label": "Portfolio", "href": "/portfolio" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Blog", "href": "/blog" },
-      { "label": "Contact", "href": "/contact" }
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Portfolio",
+        "href": "/portfolio"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
     ]
   },
   "hero": {
@@ -15,13 +33,22 @@
     "role": "Digital Marketing Specialist",
     "subtitle": "Driving measurable growth through data-driven marketing strategies",
     "stats": [
-      { "label": "Avg ROI", "value": "500%" },
-      { "label": "Revenue Generated", "value": "$10M+" },
-      { "label": "Campaigns", "value": "100+" }
+      {
+        "label": "Avg ROI",
+        "value": "500%"
+      },
+      {
+        "label": "Revenue Generated",
+        "value": "$10M+"
+      },
+      {
+        "label": "Campaigns",
+        "value": "100+"
+      }
     ],
     "cta_primary": "View Case Studies",
     "cta_secondary": "Get Free Audit",
-    "image": "/images/hero-melisha.jpg"
+    "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aW5kaWFuJTIwZ2lybHxlbnwwfHwwfHx8MA%3D%3D"
   },
   "about": {
     "headline": "Marketing Strategist",
@@ -168,17 +195,50 @@
         "roi": "640%"
       },
       "metrics": [
-        { "label": "Monthly Sessions", "value": "76k", "before": "18k", "after": "76k" },
-        { "label": "Organic Revenue", "value": "$412k", "before": "$94k", "after": "$412k" },
-        { "label": "Keyword Rankings (Top 10)", "value": "1,140", "before": "210", "after": "1,140" }
+        {
+          "label": "Monthly Sessions",
+          "value": "76k",
+          "before": "18k",
+          "after": "76k"
+        },
+        {
+          "label": "Organic Revenue",
+          "value": "$412k",
+          "before": "$94k",
+          "after": "$412k"
+        },
+        {
+          "label": "Keyword Rankings (Top 10)",
+          "value": "1,140",
+          "before": "210",
+          "after": "1,140"
+        }
       ],
       "chart_data": [
-        { "date": "Jan", "value": 18 },
-        { "date": "Mar", "value": 27 },
-        { "date": "May", "value": 39 },
-        { "date": "Jul", "value": 52 },
-        { "date": "Sep", "value": 64 },
-        { "date": "Nov", "value": 76 }
+        {
+          "date": "Jan",
+          "value": 18
+        },
+        {
+          "date": "Mar",
+          "value": 27
+        },
+        {
+          "date": "May",
+          "value": 39
+        },
+        {
+          "date": "Jul",
+          "value": 52
+        },
+        {
+          "date": "Sep",
+          "value": 64
+        },
+        {
+          "date": "Nov",
+          "value": 76
+        }
       ],
       "published_date": "2025-11-02",
       "featured_image": "/images/case-seo.jpg",
@@ -204,17 +264,50 @@
         "roi": "510%"
       },
       "metrics": [
-        { "label": "ROAS", "value": "5.1x", "before": "1.2x", "after": "5.1x" },
-        { "label": "Cost / Trial", "value": "$41", "before": "$98", "after": "$41" },
-        { "label": "Qualified Trials / mo", "value": "640", "before": "220", "after": "640" }
+        {
+          "label": "ROAS",
+          "value": "5.1x",
+          "before": "1.2x",
+          "after": "5.1x"
+        },
+        {
+          "label": "Cost / Trial",
+          "value": "$41",
+          "before": "$98",
+          "after": "$41"
+        },
+        {
+          "label": "Qualified Trials / mo",
+          "value": "640",
+          "before": "220",
+          "after": "640"
+        }
       ],
       "chart_data": [
-        { "date": "Jan", "value": 220 },
-        { "date": "Mar", "value": 310 },
-        { "date": "May", "value": 430 },
-        { "date": "Jul", "value": 510 },
-        { "date": "Sep", "value": 590 },
-        { "date": "Nov", "value": 640 }
+        {
+          "date": "Jan",
+          "value": 220
+        },
+        {
+          "date": "Mar",
+          "value": 310
+        },
+        {
+          "date": "May",
+          "value": 430
+        },
+        {
+          "date": "Jul",
+          "value": 510
+        },
+        {
+          "date": "Sep",
+          "value": 590
+        },
+        {
+          "date": "Nov",
+          "value": 640
+        }
       ],
       "published_date": "2025-09-18",
       "featured_image": "/images/case-ppc.jpg",
@@ -240,16 +333,46 @@
         "roi": "380%"
       },
       "metrics": [
-        { "label": "Followers (90 days)", "value": "52k", "before": "0", "after": "52k" },
-        { "label": "Engagement Rate", "value": "6.4%", "before": "0%", "after": "6.4%" },
-        { "label": "Launch Revenue", "value": "$128k", "before": "$0", "after": "$128k" }
+        {
+          "label": "Followers (90 days)",
+          "value": "52k",
+          "before": "0",
+          "after": "52k"
+        },
+        {
+          "label": "Engagement Rate",
+          "value": "6.4%",
+          "before": "0%",
+          "after": "6.4%"
+        },
+        {
+          "label": "Launch Revenue",
+          "value": "$128k",
+          "before": "$0",
+          "after": "$128k"
+        }
       ],
       "chart_data": [
-        { "date": "Wk 1", "value": 2 },
-        { "date": "Wk 3", "value": 11 },
-        { "date": "Wk 6", "value": 24 },
-        { "date": "Wk 9", "value": 38 },
-        { "date": "Wk 12", "value": 52 }
+        {
+          "date": "Wk 1",
+          "value": 2
+        },
+        {
+          "date": "Wk 3",
+          "value": 11
+        },
+        {
+          "date": "Wk 6",
+          "value": 24
+        },
+        {
+          "date": "Wk 9",
+          "value": 38
+        },
+        {
+          "date": "Wk 12",
+          "value": 52
+        }
       ],
       "published_date": "2025-07-29",
       "featured_image": "/images/case-social.jpg",
@@ -275,17 +398,50 @@
         "roi": "470%"
       },
       "metrics": [
-        { "label": "Monthly MQLs", "value": "310", "before": "86", "after": "310" },
-        { "label": "Articles Published", "value": "96", "before": "12", "after": "96" },
-        { "label": "Demo Requests / mo", "value": "74", "before": "21", "after": "74" }
+        {
+          "label": "Monthly MQLs",
+          "value": "310",
+          "before": "86",
+          "after": "310"
+        },
+        {
+          "label": "Articles Published",
+          "value": "96",
+          "before": "12",
+          "after": "96"
+        },
+        {
+          "label": "Demo Requests / mo",
+          "value": "74",
+          "before": "21",
+          "after": "74"
+        }
       ],
       "chart_data": [
-        { "date": "Jan", "value": 86 },
-        { "date": "Mar", "value": 120 },
-        { "date": "May", "value": 170 },
-        { "date": "Jul", "value": 230 },
-        { "date": "Sep", "value": 280 },
-        { "date": "Nov", "value": 310 }
+        {
+          "date": "Jan",
+          "value": 86
+        },
+        {
+          "date": "Mar",
+          "value": 120
+        },
+        {
+          "date": "May",
+          "value": 170
+        },
+        {
+          "date": "Jul",
+          "value": 230
+        },
+        {
+          "date": "Sep",
+          "value": 280
+        },
+        {
+          "date": "Nov",
+          "value": 310
+        }
       ],
       "published_date": "2025-05-14",
       "featured_image": "/images/case-content.jpg",
@@ -311,17 +467,50 @@
         "roi": "720%"
       },
       "metrics": [
-        { "label": "Email Revenue Share", "value": "34%", "before": "11%", "after": "34%" },
-        { "label": "Repeat Purchase Rate", "value": "41%", "before": "23%", "after": "41%" },
-        { "label": "Flow Revenue / mo", "value": "$96k", "before": "$28k", "after": "$96k" }
+        {
+          "label": "Email Revenue Share",
+          "value": "34%",
+          "before": "11%",
+          "after": "34%"
+        },
+        {
+          "label": "Repeat Purchase Rate",
+          "value": "41%",
+          "before": "23%",
+          "after": "41%"
+        },
+        {
+          "label": "Flow Revenue / mo",
+          "value": "$96k",
+          "before": "$28k",
+          "after": "$96k"
+        }
       ],
       "chart_data": [
-        { "date": "Jan", "value": 28 },
-        { "date": "Mar", "value": 44 },
-        { "date": "May", "value": 61 },
-        { "date": "Jul", "value": 75 },
-        { "date": "Sep", "value": 88 },
-        { "date": "Nov", "value": 96 }
+        {
+          "date": "Jan",
+          "value": 28
+        },
+        {
+          "date": "Mar",
+          "value": 44
+        },
+        {
+          "date": "May",
+          "value": 61
+        },
+        {
+          "date": "Jul",
+          "value": 75
+        },
+        {
+          "date": "Sep",
+          "value": 88
+        },
+        {
+          "date": "Nov",
+          "value": 96
+        }
       ],
       "published_date": "2025-03-09",
       "featured_image": "/images/case-email.jpg",
@@ -347,17 +536,50 @@
         "roi": "560%"
       },
       "metrics": [
-        { "label": "Local Pack Rankings", "value": "7/9", "before": "1/9", "after": "7/9" },
-        { "label": "Booked Appts / mo", "value": "540", "before": "174", "after": "540" },
-        { "label": "Direction Requests", "value": "2.1k", "before": "620", "after": "2.1k" }
+        {
+          "label": "Local Pack Rankings",
+          "value": "7/9",
+          "before": "1/9",
+          "after": "7/9"
+        },
+        {
+          "label": "Booked Appts / mo",
+          "value": "540",
+          "before": "174",
+          "after": "540"
+        },
+        {
+          "label": "Direction Requests",
+          "value": "2.1k",
+          "before": "620",
+          "after": "2.1k"
+        }
       ],
       "chart_data": [
-        { "date": "Jan", "value": 174 },
-        { "date": "Mar", "value": 250 },
-        { "date": "May", "value": 340 },
-        { "date": "Jul", "value": 410 },
-        { "date": "Sep", "value": 490 },
-        { "date": "Nov", "value": 540 }
+        {
+          "date": "Jan",
+          "value": 174
+        },
+        {
+          "date": "Mar",
+          "value": 250
+        },
+        {
+          "date": "May",
+          "value": 340
+        },
+        {
+          "date": "Jul",
+          "value": 410
+        },
+        {
+          "date": "Sep",
+          "value": 490
+        },
+        {
+          "date": "Nov",
+          "value": 540
+        }
       ],
       "published_date": "2025-01-22",
       "featured_image": "/images/case-local.jpg",
@@ -456,9 +678,18 @@
     "phone": "+61 483 020 249",
     "location": "Queensland, Australia / Kathmandu, Nepal",
     "socials": [
-      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/melishapanta" },
-      { "label": "Instagram", "href": "https://www.instagram.com/melisha.panta" },
-      { "label": "X / Twitter", "href": "https://x.com/melishapanta" }
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/melishapanta"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/melisha.panta"
+      },
+      {
+        "label": "X / Twitter",
+        "href": "https://x.com/melishapanta"
+      }
     ]
   }
 }
